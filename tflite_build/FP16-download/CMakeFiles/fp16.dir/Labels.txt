@@ -1,0 +1,14 @@
+# Target labels
+ fp16
+# Source files and their labels
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/FP16-download/CMakeFiles/fp16
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/FP16-download/CMakeFiles/fp16.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/FP16-download/CMakeFiles/fp16-complete.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-build.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-configure.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-download.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-install.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-mkdir.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-patch.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-test.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/FP16-download/fp16-prefix/src/fp16-stamp/fp16-update.rule

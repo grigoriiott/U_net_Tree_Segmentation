@@ -1,0 +1,14 @@
+# Target labels
+ psimd
+# Source files and their labels
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/psimd-download/CMakeFiles/psimd
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/psimd-download/CMakeFiles/psimd.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/psimd-download/CMakeFiles/psimd-complete.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-build.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-configure.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-download.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-install.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-mkdir.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-patch.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-test.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/psimd-download/psimd-prefix/src/psimd-stamp/psimd-update.rule

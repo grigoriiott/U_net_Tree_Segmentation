@@ -1,0 +1,14 @@
+# Target labels
+ xnnpack-populate
+# Source files and their labels
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/_deps/xnnpack-subbuild/CMakeFiles/xnnpack-populate
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/_deps/xnnpack-subbuild/CMakeFiles/xnnpack-populate.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/_deps/xnnpack-subbuild/CMakeFiles/xnnpack-populate-complete.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/xnnpack-populate-stamp/xnnpack-populate-build.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/xnnpack-populate-stamp/xnnpack-populate-configure.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/xnnpack-populate-stamp/xnnpack-populate-download.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/xnnpack-populate-stamp/xnnpack-populate-install.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/xnnpack-populate-stamp/xnnpack-populate-mkdir.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/xnnpack-populate-stamp/xnnpack-populate-patch.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/xnnpack-populate-stamp/xnnpack-populate-test.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/xnnpack-populate-stamp/xnnpack-populate-update.rule

@@ -1,0 +1,14 @@
+# Target labels
+ abseil-cpp-populate
+# Source files and their labels
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/_deps/abseil-cpp-subbuild/CMakeFiles/abseil-cpp-populate
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/_deps/abseil-cpp-subbuild/CMakeFiles/abseil-cpp-populate.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/_deps/abseil-cpp-subbuild/CMakeFiles/abseil-cpp-populate-complete.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/abseil-cpp-populate-stamp/abseil-cpp-populate-build.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/abseil-cpp-populate-stamp/abseil-cpp-populate-configure.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/abseil-cpp-populate-stamp/abseil-cpp-populate-download.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/abseil-cpp-populate-stamp/abseil-cpp-populate-install.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/abseil-cpp-populate-stamp/abseil-cpp-populate-mkdir.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/abseil-cpp-populate-stamp/abseil-cpp-populate-patch.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/abseil-cpp-populate-stamp/abseil-cpp-populate-test.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/abseil-cpp-populate-stamp/abseil-cpp-populate-update.rule

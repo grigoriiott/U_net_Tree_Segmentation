@@ -1,0 +1,14 @@
+# Target labels
+ pthreadpool
+# Source files and their labels
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/CMakeFiles/pthreadpool
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/CMakeFiles/pthreadpool.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/CMakeFiles/pthreadpool-complete.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-build.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-configure.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-download.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-install.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-mkdir.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-patch.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-test.rule
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-update.rule

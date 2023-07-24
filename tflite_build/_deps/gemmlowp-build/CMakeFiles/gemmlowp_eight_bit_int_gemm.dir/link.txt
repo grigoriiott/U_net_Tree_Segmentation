@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libgemmlowp_eight_bit_int_gemm.a CMakeFiles/gemmlowp_eight_bit_int_gemm.dir/__/__/gemmlowp/eight_bit_int_gemm/eight_bit_int_gemm.cc.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libgemmlowp_eight_bit_int_gemm.a

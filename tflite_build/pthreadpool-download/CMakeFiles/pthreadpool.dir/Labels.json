@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/CMakeFiles/pthreadpool"
+		},
+		{
+			"file" : "/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/CMakeFiles/pthreadpool.rule"
+		},
+		{
+			"file" : "/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/CMakeFiles/pthreadpool-complete.rule"
+		},
+		{
+			"file" : "/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-build.rule"
+		},
+		{
+			"file" : "/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-configure.rule"
+		},
+		{
+			"file" : "/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-download.rule"
+		},
+		{
+			"file" : "/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-install.rule"
+		},
+		{
+			"file" : "/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-mkdir.rule"
+		},
+		{
+			"file" : "/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-patch.rule"
+		},
+		{
+			"file" : "/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-test.rule"
+		},
+		{
+			"file" : "/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/pthreadpool-prefix/src/pthreadpool-stamp/pthreadpool-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"pthreadpool"
+		],
+		"name" : "pthreadpool"
+	}
+}

@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+1ee8e14a47b5cd29829b9992fec0161b /Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/xnnpack-populate-stamp/xnnpack-populate-build
+165df6ccf8b7f93d31d87b51a553730a /Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/xnnpack-populate-stamp/xnnpack-populate-configure
+9ccf49d6f50a701081db3970b467aab3 /Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/xnnpack-populate-stamp/xnnpack-populate-download
+fae206a4b6c5fed30fca5c0fb346c31e /Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/xnnpack-populate-stamp/xnnpack-populate-install
+3065e4bf19a14ebe912f527f52edaf1b /Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/xnnpack-populate-stamp/xnnpack-populate-mkdir
+c3a523523b84ba20579a2bf85759318e /Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/xnnpack-populate-stamp/xnnpack-populate-patch
+dd6c0269cb4e26030e2bbf3020a0e0c2 /Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/xnnpack-populate-stamp/xnnpack-populate-test
+75f30937ef058135ee7e838683442758 /Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/src/xnnpack-populate-stamp/xnnpack-populate-update
+d8afd06f42fe22df63fbfc652d27f9f5 CMakeFiles/xnnpack-populate
+5d43c545d465288525c48dc78291d232 CMakeFiles/xnnpack-populate-complete

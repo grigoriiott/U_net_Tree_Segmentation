@@ -1,0 +1,3 @@
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/CMakeFiles/pthreadpool.dir
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/CMakeFiles/edit_cache.dir
+/Users/grigoriiott/Documents/Programming/MachineLearning/VanyaProj/tflite_build/pthreadpool-download/CMakeFiles/rebuild_cache.dir

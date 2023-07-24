@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libpthreadpool.a "CMakeFiles/pthreadpool.dir/src/portable-api.c.o" CMakeFiles/pthreadpool.dir/src/memory.c.o CMakeFiles/pthreadpool.dir/src/gcd.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libpthreadpool.a
